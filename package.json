@@ -1,0 +1,18 @@
+{
+    "name": "net.voidrock.core",
+    "version": "1.2.3",
+    "displayName": "Voidrock core",
+    "description": "Base functionality and dependancies for Voidrock games",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+   "keywords": [
+      "Core",
+      "Starter",
+      "Voidrock"
+    ],
+    "author": {
+      "name": "Voidrock studios",
+      "email": "martynas.siskauskas@voidrock-studios.net",
+      "url": "https://www.voidrock-studios.net"
+    }
+  }
